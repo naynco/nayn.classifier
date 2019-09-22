@@ -2,8 +2,8 @@
 News Classification in Turkish
 
 ## TODO
-- [] Category suggestion
-- [] Tag suggestion
+- [ ] Category suggestion
+- [ ] Tag suggestion
 
 
 ## Our Categories:
