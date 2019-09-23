@@ -1,6 +1,8 @@
 # nayn.classifier
 News Classification in Turkish
 
+[Jupyter notebook](https://colab.research.google.com/drive/1RELKn_acFfHXNsckEQ3wXHv8ynX5GJDh)
+
 ## TODO
 - [ ] Category suggestion
 - [ ] Tag suggestion
