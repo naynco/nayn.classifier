@@ -3,7 +3,7 @@ News Classification in Turkish
 
 
 ## TODO
-- [*] Category suggestion
+- [x] Category suggestion
 - [ ] Tag suggestion
 
 
