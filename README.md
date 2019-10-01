@@ -10,6 +10,7 @@ News Classification in Turkish
 ## Our Categories:
 - Gündem (Default)
 - Dünya
+- Ekonomi
 - Spor
 - Sanat
 - Teknoloji
